@@ -41,4 +41,4 @@ Você pode visualizar o layout do projeto [clicando aqui](https://www.figma.com/
 
 ---
 
-Feito com ♥ by Lucas Hecro
+Feito com 💜 by Lucas Hecro
